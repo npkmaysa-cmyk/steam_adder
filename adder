@@ -20,26 +20,4 @@
     "kullanici_adi": "yasaklikullanici",
     "yasak": true
   }
-}{
-  "8a7b6c5d4e": {
-    "baslangic_tarihi": "2025-01-01 08:00",
-    "bitis_tarihi": "2025-12-31 23:59",
-    "lisans_tipi": "premium",
-    "kullanici_adi": "mehmetyilmaz",
-    "yasak": false
-  },
-  "ab12cd34ef": {
-    "baslangic_tarihi": "2025-09-01 00:00",
-    "bitis_tarihi": "2025-10-30 12:00",
-    "lisans_tipi": "standart",
-    "kullanici_adi": "ayseak",
-    "yasak": false
-  },
-  "zx98vy76tr": {
-    "baslangic_tarihi": "2025-01-01 00:00",
-    "bitis_tarihi": "2025-02-01 00:00",
-    "lisans_tipi": "demo",
-    "kullanici_adi": "yasaklikullanici",
-    "yasak": true
-  }
 }
