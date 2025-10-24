@@ -18,6 +18,6 @@
     "bitis_tarihi": "2025-11-01;00:00",
     "lisans_tipi": "demo",
     "kullanici_adi": "yasaklikullanici",
-    "yasak": true
+    "yasak": false
   }
 }
