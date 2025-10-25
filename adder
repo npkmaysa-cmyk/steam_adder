@@ -1,1 +1,23 @@
-
+{
+  "8a7b6c5d4e": {
+    "baslangic_tarihi": "2025-01-01",
+    "bitis_tarihi": "2025-10-26",
+    "lisans_tipi": "premium",
+    "kullanici_adi": "mehmetyilmaz",
+    "yasak": false
+  },
+  "ab12cd34ef": {
+    "baslangic_tarihi": "2025-09-01",
+    "bitis_tarihi": "2025-10-30",
+    "lisans_tipi": "standart",
+    "kullanici_adi": "ayseak",
+    "yasak": false
+  },
+  "zx98vy76tr": {
+    "baslangic_tarihi": "2024-11-01",
+    "bitis_tarihi": "2025-11-01",
+    "lisans_tipi": "demo",
+    "kullanici_adi": "yasaklikullanici",
+    "yasak": false
+  }
+}
